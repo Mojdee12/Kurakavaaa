@@ -108,15 +108,12 @@ blockchain.info:443
 upwork.com:443
 codepen.io:443
 fiverr.com:443
-thepiratebay.org:443:443
-extratorrent.com:443
 getbootstrap.com:443
 jquery.com:443
 laravel.com:443
 laracasts.com:443
 bitdefender.com:443
 glassdoor.com:443
-discordapp.com:443
 change.org:443
 irccloud.com:443
 000webhost.com:443
