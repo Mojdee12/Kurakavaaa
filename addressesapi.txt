@@ -62,7 +62,6 @@ royal-shop.pl:2053
 manutv.org:2053
 noi.md:2053
 2performant.com:2053
-domaintocheck.com:2053
 authy.com:2053
 prosper.com:2053
 patreon.com:2053
@@ -86,7 +85,6 @@ getbootstrap.com:2053
 laravel.com:2053
 laracasts.com:2053
 bitcoin.de:443
-blockchain.info:443
 upwork.com:443
 codepen.io:443
 fiverr.com:443
@@ -110,7 +108,6 @@ irccloud.com:443
 2ch-c.net:443
 2ch.net:443
 3bmeteo.com:443
-4chan.org:443
 4dsply.com:443
 800notes.com:443
 96down.com:443
