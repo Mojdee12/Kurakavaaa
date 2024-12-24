@@ -1,34 +1,34 @@
-aporrea.org:443
-172.64.32.242:2053
-172.64.32.242:8443
-172.64.40.42:443
-172.64.40.42:2053
-172.64.40.42:8443
-[2606:4700:d0::3878:8b96:9fd7:55ba]:443
-[2606:4700:d0::4fc2:89a3:92f7:a062]:443
-[2606:4700:d0::20b8:192a:7854:6465]:443
-[2606:4700:d0::87f9:7e1:7608:5e1b]:443
-[2606:4700:d0::6f62:52de:1fc7:7451]:443
-104.24.60.74:443
-104.24.60.74:2053
-104.24.43.137:443
-104.24.43.137:2053
-104.24.60.193:443
-104.24.60.193:2053
-104.24.60.193:8443
-104.25.250.12:443
-104.25.250.12:2053
-104.25.250.12:8443
-104.18.207.118:443
-104.18.207.118:2053
-104.18.207.118:8443
-knobs.pl:443
-royal-shop.pl:443
-manutv.org:443
-noi.md:443
-2performant.com:443
-authy.com:443
-prosper.com:443
+aporrea.org:443#All Internet
+172.64.32.242:2053#All Internet
+172.64.32.242:8443#All Internet
+172.64.40.42:443#All Internet
+172.64.40.42:2053#All Internet
+172.64.40.42:8443#All Internet
+[2606:4700:d0::3878:8b96:9fd7:55ba]:443#Mci-MTN
+[2606:4700:d0::4fc2:89a3:92f7:a062]:443#Mci-MTN
+[2606:4700:d0::20b8:192a:7854:6465]:443#Mci-MTN
+[2606:4700:d0::87f9:7e1:7608:5e1b]:443#Mci-MTN
+[2606:4700:d0::6f62:52de:1fc7:7451]:443#Mci-MTN
+104.24.60.74:443#All Internet
+104.24.60.74:2053#All Internet
+104.24.43.137:443#All Internet
+104.24.43.137:2053#All Internet
+104.24.60.193:443#All Internet
+104.24.60.193:2053#All Internet
+104.24.60.193:8443#All Internet
+104.25.250.12:443#All Internet
+104.25.250.12:2053#All Internet
+104.25.250.12:8443#All Internet
+104.18.207.118:443#All Internet
+104.18.207.118:2053#All Internet
+104.18.207.118:8443#All Internet
+knobs.pl:443#All Internet
+royal-shop.pl:443#All Internet
+manutv.org:443#All Internet
+noi.md:443#All Internet
+2performant.com:443#All Internet
+authy.com:443#All Internet
+prosper.com:443#All Internet
 patreon.com:443
 bitpay.com:443
 producthunt.com:443
@@ -96,29 +96,29 @@ bitdefender.com:443
 glassdoor.com:443
 change.org:443
 irccloud.com:443
-000webhost.com:443
-1001freefonts.com:443
-101greatgoals.com:443
-10minutemail.com:443
-1jux.net:443
-1news.az:443
-1sale.com:443
-1stwebdesigner.com:443
-24horas.cl:443
-2ch-c.net:443
-2ch.net:443
-3bmeteo.com:443
-4dsply.com:443
-800notes.com:443
-96down.com:443
-adafruit.com:443
-apne.tv:443
-[2606:4700:d0::920:d142:2a0d:c51d]:2096#Mci-MTN
-[2606:4700:d0::39ca:860f:7ce2:c8]:2096#Mci-MTN
-[2606:4700:d0::5df5:fb57:881e:3a8]:2096#Mci-MTN
-[2606:4700:d0::7acd:cf95:3982:8122]:2096#Mci-MTN
-[2606:4700:d0::5590:8f1b:7f60:3031]:2096#Mci-MTN
-[2606:4700:d0::18ee:4ae8:2681:3f76]:2096#Mci-MTN
-[2606:4700:d0::16ce:4ea4:40f7:9b63]:2096#Mci-MTN
-[2606:4700:8d91:8af0:74e9:3e12:b9a9]:2096#Mci-MTN
-[2606:4700:8d90:d323:5f37:7547:c442:4de8]:2096#Mci-MTN
+000webhost.com:443#All Internet
+1001freefonts.com:443#All Internet
+101greatgoals.com:443#All Internet
+10minutemail.com:443#All Internet
+1jux.net:443#All Internet
+1news.az:443#All Internet
+1sale.com:443#All Internet
+1stwebdesigner.com:443#All Internet
+24horas.cl:443#All Internet
+2ch-c.net:443#All Internet
+2ch.net:443#All Internet
+3bmeteo.com:443#All Internet
+4dsply.com:443#All Internet
+800notes.com:443#All Internet
+96down.com:443#All Internet
+adafruit.com:443#All Internet
+apne.tv:443#All Internet
+[2606:4700:d0::920:d142:2a0d:c51d]:443#Mci-MTN
+[2606:4700:d0::39ca:860f:7ce2:c8]:443#Mci-MTN
+[2606:4700:d0::5df5:fb57:881e:3a8]:443#Mci-MTN
+[2606:4700:d0::7acd:cf95:3982:8122]:443#Mci-MTN
+[2606:4700:d0::5590:8f1b:7f60:3031]:443#Mci-MTN
+[2606:4700:d0::18ee:4ae8:2681:3f76]:443#Mci-MTN
+[2606:4700:d0::16ce:4ea4:40f7:9b63]:443#Mci-MTN
+[2606:4700:8d91:8af0:74e9:3e12:b9a9]:443#Mci-MTN
+[2606:4700:8d90:d323:5f37:7547:c442:4de8]:443#Mci-MTN
