@@ -22,3 +22,104 @@
 172.64.41.91:2053#Wifi All Internt
 104.24.37.125:2053#Wifi All Internt
 104.24.37.85:2053#Wifi All Internt
+108.162.194.146:443:true:LAX:North America:Los Angeles:189:0.57
+66.103.210.62:443:true:PDX:North America:Portland:197:0.57
+5.10.246.176:443:true:LAX:North America:Los Angeles:190:0.57
+108.162.194.149:443:true:LAX:North America:Los Angeles:186:0.57
+51.81.209.175:443:true:PDX:North America:Portland:272:0.56
+64.181.252.216:443:true:SJC:North America:San Jose:165:0.56
+5.10.245.82:443:true:LAX:North America:Los Angeles:183:0.56
+62.146.172.119:443:true:SEA:North America:Seattle:189:0.56
+5.10.244.215:443:true:LAX:North America:Los Angeles:174:0.56
+54.200.244.93:443:true:PDX:North America:Portland:208:0.56
+51.81.209.129:443:true:PDX:North America:Portland:270:0.55
+66.112.218.252:443:true:PDX:North America:Portland:196:0.55
+5.10.247.64:443:true:LAX:North America:Los Angeles:199:0.55
+108.162.194.72:443:true:LAX:North America:Los Angeles:186:0.55
+108.162.194.159:443:true:LAX:North America:Los Angeles:172:0.54
+51.81.209.139:443:true:PDX:North America:Portland:230:0.54
+66.179.48.1:443:true:SJC:North America:San Jose:163:0.54
+108.162.194.144:443:true:LAX:North America:Los Angeles:185:0.54
+5.10.246.189:443:true:LAX:North America:Los Angeles:190:0.54
+108.162.194.238:443:true:LAX:North America:Los Angeles:184:0.54
+135.84.64.31:443:true:LAX:North America:Los Angeles:174:0.53
+45.202.113.200:443:true:LAX:North America:Los Angeles:171:0.53
+5.10.247.167:443:true:LAX:North America:Los Angeles:177:0.53
+108.162.194.139:443:true:LAX:North America:Los Angeles:182:0.53
+108.162.194.138:443:true:LAX:North America:Los Angeles:189:0.53
+66.179.48.2:443:true:SJC:North America:San Jose:172:0.53
+66.112.211.22:443:true:LAX:North America:Los Angeles:196:0.52
+5.10.244.223:443:true:LAX:North America:Los Angeles:178:0.52
+135.84.64.58:443:true:LAX:North America:Los Angeles:176:0.52
+5.10.246.184:443:true:LAX:North America:Los Angeles:198:0.52
+52.89.138.13:443:true:PDX:North America:Portland:193:0.52
+108.162.194.154:443:true:LAX:North America:Los Angeles:173:0.51
+135.84.67.77:443:true:LAX:North America:Los Angeles:184:0.51
+72.13.122.137:443:true:LAX:North America:Los Angeles:184:0.51
+5.10.244.41:443:true:LAX:North America:Los Angeles:183:0.50
+65.49.207.10:443:true:LAX:North America:Los Angeles:196:0.50
+5.10.246.115:443:true:LAX:North America:Los Angeles:173:0.50
+35.171.204.134:443:true:IAD:North America:Ashburn:246:0.50
+5.10.244.157:443:true:LAX:North America:Los Angeles:189:0.50
+23.134.82.1:443:true:LAX:North America:Los Angeles:187:0.49
+23.134.82.2:443:true:LAX:North America:Los Angeles:173:0.49
+5.10.247.129:443:true:LAX:North America:Los Angeles:183:0.49
+20.246.127.166:443:true:IAD:North America:Ashburn:194:0.48
+52.89.97.12:443:true:PDX:North America:Portland:209:0.48
+3.86.231.180:443:true:IAD:North America:Ashburn:256:0.48
+23.94.240.147:443:true:SJC:North America:San Jose:198:0.47
+108.162.194.137:443:true:LAX:North America:Los Angeles:178:0.47
+5.10.244.9:443:true:LAX:North America:Los Angeles:184:0.47
+20.62.202.159:443:true:IAD:North America:Ashburn:236:0.47
+23.105.192.140:443:true:LAX:North America:Los Angeles:151:0.47
+23.105.197.36:443:true:PDX:North America:Portland:155:0.47
+74.48.46.35:443:true:LAX:North America:Los Angeles:223:0.47
+51.81.209.83:443:true:PDX:North America:Portland:255:0.47
+23.227.193.153:443:true:ORD:North America:Chicago:232:0.47
+51.81.209.137:443:true:PDX:North America:Portland:272:0.47
+52.12.162.159:443:true:PDX:North America:Portland:214:0.47
+108.162.194.153:443:true:LAX:North America:Los Angeles:173:0.47
+108.162.194.152:443:true:LAX:North America:Los Angeles:174:0.46
+35.230.79.26:443:true:SEA:North America:Seattle:222:0.46
+18.236.13.188:443:true:PDX:North America:Portland:210:0.45
+20.121.115.188:443:true:IAD:North America:Ashburn:194:0.45
+23.94.43.51:443:true:SEA:North America:Seattle:188:0.44
+5.10.244.20:443:true:LAX:North America:Los Angeles:178:0.43
+108.162.194.158:443:true:LAX:North America:Los Angeles:177:0.43
+23.94.57.31:443:true:SEA:North America:Seattle:185:0.43
+51.81.209.160:443:true:PDX:North America:Portland:265:0.42
+74.48.168.143:443:true:LAX:North America:Los Angeles:216:0.42
+23.227.193.89:443:true:ORD:North America:Chicago:202:0.42
+18.222.145.58:443:true:ORD:North America:Chicago:221:0.41
+23.95.113.61:443:true:IAD:North America:Ashburn:263:0.40
+34.210.14.70:443:true:PDX:North America:Portland:198:0.39
+23.94.123.164:443:true:SJC:North America:San Jose:167:0.39
+3.15.147.181:443:true:CMH:North America:Columbus:228:0.39
+107.172.89.56:443:true:SJC:North America:San Jose:173:0.39
+51.81.210.176:443:true:PDX:North America:Portland:264:0.37
+52.41.218.4:443:true:PDX:North America:Portland:197:0.37
+43.153.85.3:443:true:SJC:North America:San Jose:162:0.34
+51.81.209.152:443:true:PDX:North America:Portland:270:0.34
+108.162.194.252:443:true:LAX:North America:Los Angeles:180:0.32
+3.138.59.154:443:true:CMH:North America:Columbus:223:0.30
+23.94.211.148:443:true:SEA:North America:Seattle:168:0.29
+34.234.8.26:443:true:IAD:North America:Ashburn:237:0.28
+43.153.88.103:443:true:SJC:North America:San Jose:184:0.28
+67.226.221.104:443:true:SJC:North America:San Jose:155:0.27
+74.48.86.42:443:true:LAX:North America:Los Angeles:198:0.19
+45.150.165.5:443:true:SEA:North America:Seattle:137:0.18
+45.150.165.41:443:true:SEA:North America:Seattle:141:0.18
+74.48.12.205:443:true:LAX:North America:Los Angeles:219:0.18
+74.48.99.215:443:true:LAX:North America:Los Angeles:180:0.17
+3.147.73.220:443:true:CMH:North America:Columbus:224:0.17
+66.179.48.145:443:true:SJC:North America:San Jose:168:0.15
+74.48.83.11:443:true:LAX:North America:Los Angeles:213:0.14
+38.150.32.93:443:true:LAX:North America:Los Angeles:148:0.14
+5.78.114.254:443:true:PDX:North America:Portland:224:0.13
+5.10.245.111:443:true:LAX:North America:Los Angeles:191:0.13
+107.174.218.204:443:true:SJC:North America:San Jose:144:0.12
+107.173.146.111:443:true:SJC:North America:San Jose:167:0.11
+18.209.235.219:443:true:IAD:North America:Ashburn:233:0.11
+107.175.245.110:443:true:IAD:North America:Ashburn:240:0.11
+47.253.228.207:443:true:IAD:North America:Ashburn:309:0.11
+74.48.141.186:443:true
